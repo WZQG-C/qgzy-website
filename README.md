@@ -2,7 +2,7 @@
 
 简约科技风的响应式社团首页，使用原生 HTML、CSS 和 JavaScript，无需安装依赖。
 
-主域名：**https://hellocpp.pages.dev/**。以 **Cloudflare Pages** 为主要托管平台。
+主域名：https://hellocpp.pages.dev/。以 **Cloudflare Pages** 为主要托管平台。
 
 ## Cloudflare Pages 部署与域名绑定
 
